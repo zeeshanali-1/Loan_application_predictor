@@ -2,7 +2,9 @@ Loan Application Predictor
 
 A loan application is used by borrowers to apply for a loan. Through the loan application, borrowers reveal key details about their finances to the lender. The loan application is crucial to determine whether the lender will grant the request for funds or credit.
 
-The data for training and testing has taken from a csv file that can be accessed using the link "https://raw.githubusercontent.com/dphi-official/Datasets/master/Loan_Data/loan_train.csv".
+The data for training and testing has taken from a csv file that can be accessed using the link:
+For training: "https://raw.githubusercontent.com/dphi-official/Datasets/master/Loan_Data/loan_train.csv".
+For testing: "https://raw.githubusercontent.com/dphi-official/Datasets/master/Loan_Data/loan_test.csv"
 
 The different types of variables in the dataset are Categorical, ordinal and numerical.
 
